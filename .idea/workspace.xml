@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ee830b4b-7f00-43af-8318-5f067ef6a9e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount$BankAccountType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount$BankAccountType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/Banking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linette_proj1/csulb/cecs274/Banking.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/csulb/cecs274/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/csulb/cecs274/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/csulb/cecs274/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/csulb/cecs274/Banking.java" afterDir="false" />
     </list>
@@ -19,7 +23,10 @@
         <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/Banking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="103" lean-forward="true" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,8 +34,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="575">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1985#1986#0" expanded="true" />
+                <element signature="e#2011#2012#0" expanded="true" />
+                <element signature="e#2070#2071#0" expanded="true" />
+                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#2136#2137#0" expanded="true" />
+                <element signature="e#2167#2168#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,8 +94,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="63" />
+    <option name="x" value="97" />
+    <option name="y" value="79" />
     <option name="width" value="1400" />
     <option name="height" value="905" />
   </component>
@@ -168,7 +184,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="63" width="1400" height="905" extended-state="0" />
+    <frame x="97" y="79" width="1400" height="905" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
@@ -176,10 +192,10 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3296433" />
+      <window_info anchor="bottom" id="Messages" weight="0.3296433" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296433" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,13 +223,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BankAccountTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/Banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/BankCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -221,10 +230,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/Banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="103" lean-forward="true" selection-start-line="10" selection-start-column="103" selection-end-line="10" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/csulb/cecs274/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        <state relative-caret-position="575">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2011#2012#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#2136#2137#0" expanded="true" />
+            <element signature="e#2167#2168#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
